@@ -1,16 +1,16 @@
-### Hi there 👋
+Welcome! I'm Gabriel!. 😊
 
-<!--
-**GHSilva01/GHSilva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About me:
+😁 21 years old, Dev Full Stack.
+🤔 For now, i'm just studying to ingress a first work in the world of dev.
+🎓 Graduate in Análise e Desenvolvimento de Sistemas.
+💼 Looking for the first work.
+ 
+🛠 Stack:
+💻   Python (Skicit Learn and Machine Learning), JavaScript, ReactJS, NodeJS, AdonisJS
+      HTML, CSS, Bootstrap, NPM, Git, Visual Studio Code, MySQL.
+      
+✨ Personal Projects:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
