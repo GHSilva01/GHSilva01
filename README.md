@@ -51,6 +51,17 @@ Advanced English.
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/GHSilva01/themoviedb">
+    <img
+      align="center"
+      height="120em"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GHSilva01&repo=themoviedb&theme=tokyonight">
+    </img>
+  </a>
+</p>
+
+
 ## Contact
 <p align="center">
   <a href="https://www.instagram.com/gabrielh.fs/">
