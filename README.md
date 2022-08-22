@@ -4,8 +4,6 @@
 
 🎓 Gradute in Análise e Desenvolvimento de Sistemas
 
-💼 Looking for the first oportunity to work.
-
 Advanced English.
 
 ----
