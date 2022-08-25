@@ -50,7 +50,7 @@ Intermediary English.
 </p>
 
 <p>
-  <a href="https://github.com/GHSilva01/themoviedb">
+  <a https://github.com/GHSilva01/bb-app">
     <img
       align="center"
       height="120em"
