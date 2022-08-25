@@ -1,10 +1,10 @@
 ## Hello, my name is <strong>Gabriel Silva!</strong>
 
-😊 I have 21 years old, i'm a Dev Full Stack.
+😊 I have 22 years old, i'm a Dev Full Stack.
 
 🎓 Gradute in Análise e Desenvolvimento de Sistemas
 
-Advanced English.
+Intermediary English.
 
 ----
 
