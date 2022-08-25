@@ -54,7 +54,7 @@ Intermediary English.
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GHSilva01&repo=themoviedb&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GHSilva01&repo=bb-app&theme=tokyonight">
     </img>
   </a>
 </p>
